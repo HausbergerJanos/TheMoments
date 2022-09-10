@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_feed"
+        android:title="@string/bottom_nav_feed_label"/>
+
+    <item
+        android:id="@+id/nav_marketplace"
+        android:title="@string/bottom_nav_marketplace_label"/>
+
+    <item
+        android:id="@+id/nav_my_collections"
+        android:title="@string/bottom_nav_my_collections_label"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/bottom_nav_profile_label"/>
+</menu>

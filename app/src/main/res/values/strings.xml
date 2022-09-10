@@ -43,4 +43,9 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+
+    <string name="bottom_nav_feed_label">Hírfolyam</string>
+    <string name="bottom_nav_marketplace_label">Áruház</string>
+    <string name="bottom_nav_my_collections_label">Gyűjteményeim</string>
+    <string name="bottom_nav_profile_label">Profil</string>
 </resources>
