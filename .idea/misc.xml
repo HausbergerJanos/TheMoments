@@ -3,15 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/activity_main.xml" value="0.16111111111111112" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/content_main.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_feed.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_first.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_marketplace.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_my_collections.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_profile.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_second.xml" value="0.1762917933130699" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/menu/menu_bottom_nav.xml" value="0.28716216216216217" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/content_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_feed.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_marketplace.xml" value="0.18541666666666667" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_my_collections.xml" value="0.18541666666666667" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_profile.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>
