@@ -3,13 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/content_main.xml" value="0.1598731884057971" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_feed.xml" value="0.1598731884057971" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_marketplace.xml" value="0.18541666666666667" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_my_collections.xml" value="0.18541666666666667" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_profile.xml" value="0.18541666666666667" />
-        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/menu/menu_bottom_nav.xml" value="0.35185185185185186" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/fragment_feed.xml" value="0.12273550724637682" />
+        <entry key="..\:/AndroidProjects/MyProjects/TheMoments/app/src/main/res/layout/view_feed_item.xml" value="0.1757852077001013" />
       </map>
     </option>
   </component>
